@@ -6,4 +6,7 @@
 3. 需要手动提交
 4. 收集BUG中，遇到bug可以提交到Tnxts@tnxts.com
 
+## 已知BUG：
+- 荣耀EMIUI进入位置选择页面后会报要求无障碍功能开启
+
 #### Powered by AutoJs
