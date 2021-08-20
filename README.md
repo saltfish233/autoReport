@@ -6,4 +6,4 @@
 3. 需要手动提交
 4. 收集BUG中，遇到bug可以提交到Tnxts@tnxts.com
 
-##Powered by AutoJs
+#### Powered by AutoJs
