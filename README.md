@@ -10,4 +10,4 @@
 ## 已知BUG：
 - ~~荣耀EMIUI进入位置选择页面后会报要求无障碍功能开启~~
 
-#### 　　　　　　　　　　　　　　　　　　　　　　　　　Powered by AutoJs
+#### 　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　　Powered by AutoJs
