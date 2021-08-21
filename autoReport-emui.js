@@ -41,7 +41,7 @@ else{
     toast("未检查到工作日报");
     exit();
 }
-开始填日报
+//开始填日报
 var currentLocation = className("android.view.View").clickable(true).depth(18).indexInParent(2).findOne();
 if(currentLocation){
         currentLocation.click();
