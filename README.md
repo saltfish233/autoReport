@@ -6,7 +6,8 @@
 3. 需要手动提交
 5. 最好在下午五点-七点之间使用autoReport
 6. emui不需要开启后台弹出权限
-7. 收集BUG中，遇到bug可以提交到Tnxts@tnxts.com
+7. emui版还没写日期选择功能，普通版可以自动选择日期
+8. 收集BUG中，遇到bug可以提交到Tnxts@tnxts.com
 
 ## 已知BUG：
 - ~~荣耀EMIUI进入位置选择页面后会报要求无障碍功能开启~~
